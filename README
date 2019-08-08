@@ -30,7 +30,7 @@ backups to be made to external device i.e sdcard. Also, this program fork has be
 to be the sole application to run aside from the most basic android specific applications.
 
 For example, Epassafe replaces the default Launcher. 
-I believe their is a niche market for requiring this kind of device.
+I believe there is a niche market for requiring this kind of device.
 
 Apart from how Epassafe differs from Universal Password Manager, the aim is to use it on a
 modified Android OS or special Rom to make the device sole purpose for keeping passwords
